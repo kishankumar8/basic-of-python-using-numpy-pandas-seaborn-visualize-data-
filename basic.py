@@ -1,4 +1,4 @@
-'''print("hello sir")
+print("hello sir")
 
 #NUMPY LIBBRARY
 
@@ -63,9 +63,9 @@ plt.xlabel("x-axis")
 plt.ylabel("y-axis")
 plt.plot(x,y)
 plt.show()
-plt.savefig("lineplot.png")'''
+plt.savefig("lineplot.png")
 
-'''np.pi=3.14
+np.pi=3.14
 x=np.arange(0,12*np.pi,0.1)
 y=np.sin(x)
 plt.xlabel("X-AXIS")
@@ -73,9 +73,9 @@ plt.ylabel("Y-AXIS")
 plt.title("Sine WAVE")
 plt.plot(x,y)
 plt.show()
-plt.savefig("sinewave.png")'''
+plt.savefig("sinewave.png")
 
-'''x1=[4,6,8]
+x1=[4,6,8]
 y1=[3,5,7]
 x2=[4,3,5]
 y2=[5,7,9]
@@ -85,7 +85,7 @@ plt.title("BAR GRAPH")
 plt.xlabel("X-AXIS")
 plt.ylabel("Y-AXIS")
 plt.show()
-plt.savefig("bargraph.png")'''
+plt.savefig("bargraph.png")
 
 #SEABORN LIBRARY
 
@@ -104,4 +104,5 @@ savefig("regplot.png")
 sns.pairplot(df,hue="sex")
 savefig("pairplot.png")
 #(distplot) 
+
 # sns.distplot(df["tip"])
