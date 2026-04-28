@@ -18,7 +18,7 @@ It provides fast, memory-efficient arrays and mathematical operations.
 📌 What is Pandas?
 Pandas is built on NumPy and used for data manipulation, cleaning, and analysis.
 
--> Handles structured data
+-> Handles structured data.
 
 -> Easy data cleaning
 
