@@ -20,7 +20,7 @@ Pandas is built on NumPy and used for data manipulation, cleaning, and analysis.
 
 -> Handles structured data.
 
--> Easy data cleaning
+-> Easy data cleaning.
 
 -> SQL-like operations
 
