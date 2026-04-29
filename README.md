@@ -34,7 +34,7 @@ Pandas is built on NumPy and used for data manipulation, cleaning, and analysis.
 
 -> Seaborn is a high-level visualization library built on Matplotlib.
 
--> Beautiful plots
+-> Beautiful plots.
 
 -> Less code
 
