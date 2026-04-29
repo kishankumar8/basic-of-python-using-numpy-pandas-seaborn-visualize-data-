@@ -36,7 +36,7 @@ Pandas is built on NumPy and used for data manipulation, cleaning, and analysis.
 
 -> Beautiful plots.
 
--> Less code
+-> Less code.
 
 -> Built-in statistical plots
 
