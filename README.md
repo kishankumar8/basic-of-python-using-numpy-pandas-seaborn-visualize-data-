@@ -24,7 +24,7 @@ Pandas is built on NumPy and used for data manipulation, cleaning, and analysis.
 
 -> SQL-like operations.
 
--> Works with CSV, Excel, SQL, JSON
+-> Works with CSV, Excel, SQL, JSON.
 
 # SEABORN LIBRARY
 
